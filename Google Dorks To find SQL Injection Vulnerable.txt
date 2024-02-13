@@ -1,0 +1,29 @@
+Use the following Google Dorks To find SQL Injection Vulnerable Sites:
+
+    inurl:index.php?id=
+
+    inurl:trainers.php?id=
+
+    inurl:buy.php?category=
+
+    inurl:article.php?ID=
+
+    inurl:play_old.php?id=
+
+    inurl:declaration_more.php?decl_id=
+
+    inurl:pageid=
+
+    inurl:games.php?id=
+
+    inurl:page.php?file=
+
+    inurl:newsDetail.php?id=
+
+    inurl:gallery.php?id=
+
+    inurl:show.php?id=
+
+    inurl:staff_id=
+
+copyright © sijojohns0n
